@@ -1,1 +1,1 @@
-My catppuccin themed build of tabbed
+My catppuccin themed build of dmenu
